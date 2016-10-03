@@ -24,21 +24,21 @@
 	// Footer
 	
 	'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>. 日本語訳： <a href="mailto:milksizegene@japan-secure.com">milksizegene</a>',
+		'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>. 日本語訳： <a href="http://www.japan-secure.com/">milksizegene</a>',
 	
 	// Legal
 	
 	'End-User License Agreement':
-		'エンドユーザー向け使用許諾契約',
+		'エンドユーザーライセンス契約',
 	'Privacy Policy':
 		'プライバシーポリシー',
 	
 	// Home
 	
 	'Tired of unchecking unrelated offers while installing software?':
-		'ソフトウェアのインストール中、関連性のないオファーのチェックを外すのはうんざりですか？',
+		'ソフトウェアをインストールする際に無関係なオファーのチェックを外すことにうんざりしていませんか？',
 	'Have you ever felt, while installing software, that the installer tries to push additional unwanted programs at all cost? Ever missed a checkbox, and spent hours afterwards removing adware? Ever opened your browser after an installation, only to find out that you have a new homepage, a new search engine, or even a new browser?<br>Unchecky aims to keep potentially unwanted programs out of your computer.':
-		'ソフトウェアのインストール中に不要なプログラムのチェックを外してインストールすることを煩わしく感じたことはありませんか？ またチェックを外し忘れ、その後にアドウェアを削除する時間を要したことはありませんか？さらにプログラムをインストール後、ブラウザを開いた際にホーム設定等が改ざんされたということはありませんか？<br>Uncheckyはお使いのコンピューターに、不要なプログラムを導入させないことを目指しています。',
+		'ソフトウェアをインストールする際に不要なプログラムのチェックを外しつつインストールすることを煩わしく感じていませんか？ またチェックボックスのチェックを外し忘れたために、その後にアドウェアを削除する時間を費やしたことはありませんか？さらにこれまでプログラムをインストールしてから、お使いのブラウザを実行する際に、ブラウザ設定が勝手に変更されていたということはありませんか？<br>Uncheckyは、お使いのコンピューターに、不要なプログラムを導入させないことを目的としています。。',
 	'Download':
 		'ダウンロード',
 	
@@ -50,17 +50,17 @@
 	'Unchecks':
 		'アンチェック',
 	'Unchecky automatically unchecks unrelated offers, both saving you mouse clicks and making it less likely to miss a checkbox of an unwanted offer.':
-		'Uncheckyは自動的に関連性のないオファーのチェックを外すため、あなたがマウスをクリックする手間を省き、さらにチェックを外し忘れるというリスクを軽減することが出来ます。',
+		'Uncheckyは無関係なソフトのチェックを自動的に外すので、あなたがマウスをクリックする手間を省き、さらにチェックを外し忘れる可能性も減らします。',
 	
 	'Warns':
 		'警告の表示',
 	'Installers often try to sneak additional programs as a natural part of the installation. Unchecky warns you when you try to accept a potentially unwanted offer, which makes it less likely to be accepted accidentally.':
-		'インストーラーは多くの場合、自然な形で追加プログラムのインストールを行います。Uncheckyはあなたが不要なオファーを許可しようとした際に警告を表示し、誤って不要なオファーを受け入れてしまうリスクを軽減させます。',
+		'インストーラーは多くの場合、自然な流れに見せてこっそり追加ソフトをインストールしようとします。Uncheckyはあなたが無関係なソフトを許可しようとした際に警告を表示し、誤ってインストールされる可能性を減らします。',
 	
 	'Updates automatically':
 		'自動更新',
 	'Install and forget. Unchecky automatically updates whenever a new version is available, so you don\'t have to worry about running the latest version.':
-		'新しいバージョンのインストールを忘れてしまった。しかしUncheckyは新しいバージョンが公開された際に自動的に更新されるため、いつでも最新の状態を保つことが出来るので心配はいりません。',
+		'インストールしたら忘れましょう。Uncheckyは新しいバージョンが公開されると自動更新され、いつも最新の状態に保たれるので心配はいりません。',
 	
 	'Watch Unchecky in action':
 		'動画でUncheckyを見る',
